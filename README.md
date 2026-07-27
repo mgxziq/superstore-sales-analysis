@@ -16,3 +16,7 @@ The objective of this project is to analyze the performance of a retail supersto
 ---
 
 ## 📁 Repository Structure
+```text
+├── dataset.csv                          # Raw transactional sales dataset
+├── SUPERSTORE SALES DASHBOARD.xlsx      # Excel Workbook containing data analysis & dashboard
+└── README.md                            # Project documentation
